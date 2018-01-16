@@ -1,1 +1,6 @@
+
+
+Claimref	Treatment_Date	Claim_Received_Date	Disease	Treatment	Benefit	Amt Claimed	Amt Paid	Cheque No.	Status	Track
+277839.211017.7055.1	20/12/2017	22/12/2017	Dental examination	Apicectomy and root canal therapy	Dental	2000	1600	Chq.5010068879	Paid	Track
+277839.211217.5334.1	20/12/2017	22/12/2017	Dis Of Refraction & Accommo.	Provision of spectacles	Eye treatment	4025	3220	Chq.5010068880	Paid
 this is me ;)
